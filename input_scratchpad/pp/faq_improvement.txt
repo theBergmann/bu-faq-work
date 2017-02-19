@@ -1,37 +1,6 @@
 Scratchpad for content / structuring ideas
 
-*Question Collection
-
-If a Q has an A already, feel free to post it with the Q.
-
-
-*General questions
-
-*Uncategorized questions
-
-Q: Questions here
-A:  [optional - we can also collect good questions which no-one has given an excellent answer to yet]
-
----------------------------------------------------------------------
-
-Q: Questions here
-A:  [optional - we can also collect good questions which no-one has given an excellent answer to yet]
-
----------------------------------------------------------------------
-
-
-*BU vs SegWit questions
-
-Q: Is it possible that both BU and Segwit could activate at the same time?
-A:
-
-*BU vs SegWit
-
-
-*Content dump area below (no special formatting required)
-
-*
-*Questions directly related to BU
+Questions directly related to BU
 
 Will Bitcoin Unlimited split the blockchain?
 
@@ -157,9 +126,7 @@ Does Bitcoin Unlimited scale the number of individuals?
 
 
 
-
-
-*Forking-related questions
+Forking-related questions
 
 Why do a hard-fork?
 
@@ -195,7 +162,7 @@ How many times has Bitcoin hard-forked?
 
 
 
-*General Bitcoin questions
+General Bitcoin questions
 
 Is Bitcoin a settlement layer?
 
@@ -245,7 +212,6 @@ Is Bitcoin's high-fees and confirmation problems harming user-growth?
 
 How much in Bitcoin would it cost to maintain a minority chain?
 
-
 How do I send Bitcoin to someone?
 
 Who is Satoshi Nakamato?
@@ -262,8 +228,6 @@ How come my transaction isn't broadcasting?
 
 Have less people used Bitcoin due to its current problems?
 
-
-
 Is Bitcoin cash, digital gold, gold, or a settlement network?
 
 Is it possible to kill Bitcoin?
@@ -272,14 +236,9 @@ Do traditional fraud risks apply to Bitcoin payment processors?
 
 Will regulations help or hurt Bitcoin?
 
-
 What is the true cost of a Bitcoin transaction?
 
 How many confirmations do I have to wait to make sure a TX is secure?
-
-
-
-
 
 How do I add Bitcoin to my online stores check-out?
 
@@ -289,11 +248,10 @@ How long can a Bitcoin transaction take?
 
 How do Bitcoin transactions work?
 
-
 Why isn't voting done by nodes?
 
-
 Do full-blocks mean Bitcoin is failing?
+
 
 
 
