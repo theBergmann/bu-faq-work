@@ -63,6 +63,101 @@ Does Bitcoin Unlimited appeal to authority figures?
 
 Is an uncapped blocksize a radical and risky change?
 
+Does Bitcoin Unlimited support hardware wallets?
+
+Should I be worried about Bitcoin Unlimited?
+
+Is Bitcoin Unlimited, Bitcoin?
+
+How can I get help with my Bitcoin Unlimited node?
+
+What if I don't upgrade to Bitcoin Unlimited?
+
+Why doesn't Bitcoin Unlimited move to another crypto-currency?
+
+How do I use Bitcoin Unlimited with Raspberry Pi?
+
+Where can I find Bitcoin Unlimited's financial statements?
+
+Does Bitcoin Unlimited completely remove the block-size?
+
+Does Bitcoin Unlimited want absolute control of Bitcoin?
+
+Is the economic benefit of mining Bitcoin Unlimited good?
+
+Where is the Bitcoin Unlimited Testnet?
+
+What is Nolnet?
+
+Does Bitcoin Unlimited make transactions harder to trace?
+
+Is Bitcoin Unlimited a conspiracy?
+
+Does Bitcoin Unlimited collude with individuals?
+
+Does Bitcoin Unlimited have fake nodes?
+
+How does the Bitcoin Unlimited foundation feel about government regulation of Bitcoin?
+
+Will Bitcoin Unlimited support Schnorr signatures?
+
+Is Bitcoin Unlimited trivially broken?
+
+How much bandwidth has Bitcoin Unlimited's Xthin saved?
+
+Does Bitcoin Unlimited enter into formal agreements with participants of the Bitcoin industry?
+
+Does Bitcoin Unlimited support alternative implementations?
+
+Does Bitcoin Unlimited condemn censorship?
+
+Does Bitcoin Unlimited follow the longest chain of proof-of-work?
+
+How do I setup a Bitcoin Unlimited node?
+
+Will Bitcoin Unlimited affect my Bitcoin wallet?
+
+Will Bitcoin Unlimited work as advertised?
+
+Why isn't Bitcoin Unlimited calling itself "Bitcoin"?
+
+Will mining Bitcoin Unlimited blocks be a waste of electricity?
+
+Does Bitcoin Unlimited have an activation mechanism?
+
+Is the Bitcoin blockchain immutable with Bitcoin Unlimited?
+
+Is Bitcoin Unlimited more than a simple block-size increase?
+
+Which users and businesses officially support Bitcoin Unlimited?
+
+Does Bitcoin Unlimited follow Nakamoto consensus?
+
+Will Bitcoin Unlimited ever change the proof-of-work?
+
+Does Bitcoin Unlimited believe in soft-forks?
+
+Can Bitcoin safely scale with Bitcoin Unlimited?
+
+Where does Bitcoin Unlimited obtain development talent from?
+
+How much miner support does Bitcoin Unlimited require to hard-fork?
+
+Does Bitcoin Unlimited fork useful Blockstream Core changes?
+
+Does Bitcoin Unlimited have technical debt?
+
+Does Bitcoin Unlimited fix malleability?
+
+Will Bitcoin Unlimited adopt Segwit?
+
+Does Bitcoin Unlimited believe in free-market choice?
+
+Does Bitcoin Unlimited scale the number of individuals?
+
+
+
+
 
 *Forking-related questions
 
@@ -88,6 +183,17 @@ I don't want 2 Bitcoin's, what do I do?
 
 Will Bitcoin Unlimited keep the BTC ticker?
 
+Will a minority fork of Bitcoin survive?
+
+Have Bitcoin hard-forks happened in the past?
+
+We should we hard-fork?
+
+Can hard-forks be done safely?
+
+How many times has Bitcoin hard-forked?
+
+
 
 *General Bitcoin questions
 
@@ -105,25 +211,9 @@ Are fees of $1 fine?
 
 How long away is Bitcoin mass adoption?
 
-
-
-Will a minority fork of Bitcoin survive?
-
 Is my transaction pushing another persons transaction out?
 
-Does Bitcoin Unlimited believe in free-market choice?
-
-Does Bitcoin Unlimited scale the number of individuals?
-
 Which altcoins outscale Bitcoin?
-
-Does Bitcoin Unlimited fork useful Blockstream Core changes?
-
-Does Bitcoin Unlimited have technical debt?
-
-Does Bitcoin Unlimited fix malleability?
-
-Will Bitcoin Unlimited adopt Segwit?
 
 How do I apply to become involved in the development process?
 
@@ -135,39 +225,13 @@ Why would miners mine a coin that doesn't pay them?
 
 Are the economics of making layer-2 solutions difficult?
 
-Which users and businesses officially support Bitcoin Unlimited?
-
-Does Bitcoin Unlimited follow Nakamoto consensus?
-
-Will Bitcoin Unlimited ever change the proof-of-work?
-
-Does Bitcoin Unlimited believe in soft-forks?
-
-Can Bitcoin safely scale with Bitcoin Unlimited?
-
-Where does Bitcoin Unlimited obtain development talent from?
-
-How much miner support does Bitcoin Unlimited require to hard-fork?
-
 What if a Bitcoin miner does not follow consensus?
-
-Is the Bitcoin blockchain immutable with Bitcoin Unlimited?
-
-Is Bitcoin Unlimited more than a simple block-size increase?
-
-Have Bitcoin hard-forks happened in the past?
 
 Is the artificial, arbitrary tx space restriction and departure from free market principles an emergency?
 
-Does Bitcoin Unlimited have an activation mechanism?
-
 Will the market move from small-blocks to large-blocks?
 
-Will mining Bitcoin Unlimited blocks be a waste of electricity?
-
 What defines Bitcoin?
-
-Why isn't Bitcoin Unlimited calling itself "Bitcoin"?
 
 Can layer-2 solutions scale to millions of transactions per second?
 
@@ -175,51 +239,20 @@ Are there routing problems with layer-2 technology?
 
 -- Is this as an example of the type of data you are seeking (I put Bitcoin in each line because it will help with SEO)?
 
-We should we hard-fork?
-
-Can hard-forks be done safely?
-
 Can Bitcoin scale with-out second layer systems?
-
-Will Bitcoin Unlimited work as advertised?
 
 Is Bitcoin's high-fees and confirmation problems harming user-growth?
 
 How much in Bitcoin would it cost to maintain a minority chain?
 
-Does Bitcoin Unlimited follow the longest chain of proof-of-work?
-
-How do I setup a Bitcoin Unlimited node?
-
-Will Bitcoin Unlimited affect my Bitcoin wallet?
 
 How do I send Bitcoin to someone?
 
-Does Bitcoin Unlimited support alternative implementations?
-
-Does Bitcoin Unlimited condemn censorship?
-
 Who is Satoshi Nakamato?
-
-Is Bitcoin Unlimited trivially broken?
-
-How much bandwidth has Bitcoin Unlimited's Xthin saved?
-
-Does Bitcoin Unlimited enter into formal agreements with participants of the Bitcoin industry?
-
-Will Bitcoin Unlimited support Schnorr signatures?
 
 Is it possible to change the confirmation time from 10 minutes to a few seconds?
 
-Does Bitcoin Unlimited have fake nodes?
-
-How does the Bitcoin Unlimited foundation feel about government regulation of Bitcoin?
-
 Is PoS better for Bitcoin?
-
-Is Bitcoin Unlimited a conspiracy?
-
-Does Bitcoin Unlimited collude with individuals?
 
 What are the main security threats to Bitcoin?
 
@@ -227,19 +260,9 @@ Is there a checkpoint system to eliminate the need to download the full blockcha
 
 How come my transaction isn't broadcasting?
 
-How many times has Bitcoin hard-forked?
-
-Does Bitcoin Unlimited make transactions harder to trace?
-
 Have less people used Bitcoin due to its current problems?
 
-Where is the Bitcoin Unlimited Testnet?
 
-What is Nolnet?
-
-Does Bitcoin Unlimited want absolute control of Bitcoin?
-
-Is the economic benefit of mining Bitcoin Unlimited good?
 
 Is Bitcoin cash, digital gold, gold, or a settlement network?
 
@@ -249,23 +272,14 @@ Do traditional fraud risks apply to Bitcoin payment processors?
 
 Will regulations help or hurt Bitcoin?
 
-Does Bitcoin Unlimited completely remove the block-size?
 
 What is the true cost of a Bitcoin transaction?
 
 How many confirmations do I have to wait to make sure a TX is secure?
 
-Why doesn't Bitcoin Unlimited move to another crypto-currency?
 
-How do I use Bitcoin Unlimited with Raspberry Pi?
 
-Where can I find Bitcoin Unlimited's financial statements?
 
-What if I don't upgrade to Bitcoin Unlimited?
-
-How can I get help with my Bitcoin Unlimited node?
-
-Is Bitcoin Unlimited, Bitcoin?
 
 How do I add Bitcoin to my online stores check-out?
 
@@ -275,11 +289,9 @@ How long can a Bitcoin transaction take?
 
 How do Bitcoin transactions work?
 
-Should I be worried about Bitcoin Unlimited?
 
 Why isn't voting done by nodes?
 
-Does Bitcoin Unlimited support hardware wallets?
 
 Do full-blocks mean Bitcoin is failing?
 
