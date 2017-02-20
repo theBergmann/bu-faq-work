@@ -1,4 +1,4 @@
-# Original BU website FAQ
+## Original BU website FAQ
 
 This page contains the FAQ content from the original BU website at 
 https://www.bitcoinunlimited.info/faq .
