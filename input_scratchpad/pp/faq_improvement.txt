@@ -3,11 +3,57 @@ Scratchpad for content / structuring ideas
 Questions directly related to BU
 
 
+## Technology / What is Bitcoin Unlimited ##
+
+
+Q[c130fa]: Does Bitcoin Unlimited support hardware wallets?
+
+Q[2d5960]: Does Bitcoin Unlimited make transactions harder to trace?
+
+Q[25d029]: How much bandwidth has Bitcoin Unlimited's Xthin saved?
+
+Q[0e7e3f]: Does Bitcoin Unlimited support alternative implementations?
+
+Q[8972b0]: Does Bitcoin Unlimited follow the longest chain of proof-of-work?
+
+Q[0979bc]: Will Bitcoin Unlimited work as advertised?
+
+Q[f453c3]: Is Bitcoin Unlimited more than a simple block-size increase?
+
+Q[71fdec]: Does Bitcoin Unlimited follow Nakamoto consensus?
+
+Q[ebece0]: Does Bitcoin Unlimited have technical debt?
+
+Q[ddb8d1]: Does Bitcoin Unlimited scale the number of individuals?
+
+Q[c590ff]: Is Bitcoin Unlimited, Bitcoin?
+
+Q[5b13e5]: Does Bitcoin Unlimited completely remove the block-size?
+
+
+
 ## Risks, Myths, Forks ##
+
+# Forks #
 
 Q[adcdca]: Will Bitcoin Unlimited split the blockchain?
 
 Q[b212e9]: Will nodes refuse blocks based on different configurations?
+
+Q[cbbe8f]: What if I don't upgrade to Bitcoin Unlimited?
+
+Q[8b7ecb]: Will Bitcoin Unlimited affect my Bitcoin wallet?
+
+Q[9ca7a2]: How much miner support does Bitcoin Unlimited require to hard-fork?
+
+Q[bc3858]: Will mining Bitcoin Unlimited blocks be a waste of electricity?
+
+Q[9b0bdf]: Does Bitcoin Unlimited have an activation mechanism?
+
+
+
+
+# Myths und Worries #
 
 Q[35b0f9]: Does Bitcoin Unlimited appeal to authority figures?
 
@@ -15,25 +61,15 @@ Q[cf1cb3]: Is an uncapped blocksize a radical and risky change?
 
 Q[9f8bfa]: Should I be worried about Bitcoin Unlimited?
 
-Q[c590ff]: Is Bitcoin Unlimited, Bitcoin?
-
-Q[cbbe8f]: What if I don't upgrade to Bitcoin Unlimited?
-
-Q[5b13e5]: Does Bitcoin Unlimited completely remove the block-size?
-
 Q[20f39e]: Does Bitcoin Unlimited want absolute control of Bitcoin?
 
 Q[d43f7b]: Is Bitcoin Unlimited trivially broken?
 
-Q[8b7ecb]: Will Bitcoin Unlimited affect my Bitcoin wallet?
-
-Q[bc3858]: Will mining Bitcoin Unlimited blocks be a waste of electricity?
-
-Q[9b0bdf]: Does Bitcoin Unlimited have an activation mechanism?
-
 Q[54fc29]: Is the Bitcoin blockchain immutable with Bitcoin Unlimited?
 
-Q[9ca7a2]: How much miner support does Bitcoin Unlimited require to hard-fork?
+Q[c5ac3a]: Does Bitcoin Unlimited have fake nodes?
+
+Q[6e3ba7]: Is Bitcoin Unlimited a conspiracy?
 
 
 
@@ -79,11 +115,9 @@ Q[9a595c]: How does Bitcoin Unlimited keep the community informed?
 
 Q[46957a]: Where can I find Bitcoin Unlimited's financial statements?
 
-Q[6e3ba7]: Is Bitcoin Unlimited a conspiracy?
 
 Q[32107f]: Does Bitcoin Unlimited collude with individuals?
 In such a channel
-Q[c5ac3a]: Does Bitcoin Unlimited have fake nodes?
 
 Q[abd519]: How does the Bitcoin Unlimited foundation feel about government regulation of Bitcoin?
 
@@ -109,29 +143,6 @@ Q[f34ec1]: Why doesn't Bitcoin Unlimited move to another crypto-currency?
 
 Q[bec700]: Is the economic benefit of mining Bitcoin Unlimited good?
 
-
-
-## Misc.: Technology ##
-
-Q[c130fa]: Does Bitcoin Unlimited support hardware wallets?
-
-Q[2d5960]: Does Bitcoin Unlimited make transactions harder to trace?
-
-Q[25d029]: How much bandwidth has Bitcoin Unlimited's Xthin saved?
-
-Q[0e7e3f]: Does Bitcoin Unlimited support alternative implementations?
-
-Q[8972b0]: Does Bitcoin Unlimited follow the longest chain of proof-of-work?
-
-Q[0979bc]: Will Bitcoin Unlimited work as advertised?
-
-Q[f453c3]: Is Bitcoin Unlimited more than a simple block-size increase?
-
-Q[71fdec]: Does Bitcoin Unlimited follow Nakamoto consensus?
-
-Q[ebece0]: Does Bitcoin Unlimited have technical debt?
-
-Q[ddb8d1]: Does Bitcoin Unlimited scale the number of individuals?
 
 
 
